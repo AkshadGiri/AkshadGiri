@@ -116,7 +116,7 @@ Developer:
 <div align="center">
 
 <a href="https://instagram.com/akshad_giri3">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://www.google.com/search?q=insta+image&oq=insta+image&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQABgKGAsYsQMYgAQyCQgCEAAYChiABDIOCAMQABgKGAsYsQMYgAQyDggEEAAYChgLGLEDGIAEMg4IBRAAGAoYCxixAxiABDIHCAYQABiABDIHCAcQABiABDILCAgQABgKGAsYgAQyBwgJEAAYgATSAQgyMTY1ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8#sv=CAMSZxowKg5oOXp2U2RoeWNwZkRjTTIOaDl6dlNkaHljcGZEY006DnNrc0k3cE51bjB5M2hNIAQqLwobX19jWmNhckxlSE1YdnNlTVBoLTdlMEFRXzQ0Eg5oOXp2U2RoeWNwZkRjTRgAMAEYByCZgqDyBUoIEAEYASABKAE)" alt="Instagram"/>
 </a>
 <a href="https://linkedin.com/in/akshad-giri">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -144,4 +144,4 @@ Developer:
 - 🤔 I’m looking for help with backend system design, authentication, and AWS/cloud deployment best practice
 - 💬 Ask me about WebApps,Chess,New-Tech,AstroPhysics.
 - ⚡ Fun fact: "It works on my machine" is basically my catchphrase
--->
+

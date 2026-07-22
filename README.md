@@ -1,147 +1,139 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshad%20Giri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=51" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Akshad%20%F0%9F%91%8B&fontSize=38&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Building+Scalable+Web+Apps;Exploring+Cloud+%26+DevOps;Always+Shipping+Something+New" />
+</p>
 
-<a href="https://github.com/AkshadGiri">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+with+MERN;Exploring+AWS+%26+Cloud-Native+Systems;Learning+Backend+Architecture+%26+APIs;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### 👨‍💻 About Me
 
-<br/>
+I'm a passionate **Full-Stack Developer** focused on building modern, scalable web applications using the MERN stack. I enjoy turning ideas into real, user-friendly products — and I care just as much about how it's built as what gets shipped.
 
-<img src="https://komarev.com/ghpvc/?username=AkshadGiri&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/AkshadGiri?label=Followers&style=for-the-badge&color=58A6FF" alt="followers"/>
+```python
+class AkshadGiri:
+    def __init__(self):
+        self.role = "Full-Stack Developer (MERN)"
+        self.current_focus = ["Backend System Design", "APIs & Authentication", "SaaS Architecture"]
+        self.learning = ["AWS", "Cloud Infrastructure", "Modern DevOps"]
+        self.collaboration = "Open to full-stack & AI-powered project ideas"
+        self.fuel = "Coffee ☕"
 
-</div>
+    def say_hi(self):
+        print("Let's build something great together!")
 
-<br/>
-
-## 💫 About Me
-
-I'm a **Full-Stack Developer** who loves building modern, scalable web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I enjoy turning ideas into real, user-friendly products — and I care just as much about *how* it's built as *what* gets shipped.
-
-```yaml
-Developer:
-  name: "Akshad Giri"
-  role: "Full-Stack Developer (MERN)"
-  currently_exploring:
-    - "Backend system design, APIs & authentication"
-    - "SaaS product architecture & deployment"
-    - "Cloud computing on AWS"
-    - "Modern DevOps practices"
-  goal: "Build reliable, scalable, cloud-native applications that solve real problems"
+me = AkshadGiri()
+me.say_hi()
 ```
 
-- 🔭 Currently building full-stack platforms and AI-powered applications
-- 🌱 Deepening my skills in backend architecture, databases & authentication
-- ☁️ Learning AWS, cloud infrastructure & deployment strategies
-- 💬 Ask me about React, Node.js, Express, or MongoDB
-- ⚡ Fun fact: I enjoy transforming rough ideas into polished, working products
+---
 
-<br/>
+### 🎯 Current Focus
 
-## 🛠️ Tech Stack
+- 🔭 **Working on:** Full-stack platforms and AI-powered applications
+- 🌱 **Learning:** Backend architecture, APIs, authentication, AWS & cloud deployment
+- 👯 **Open to:** Collaborating on full-stack & SaaS projects
+- 💬 **Ask me about:** React, Node.js, Express, MongoDB
+- 📫 **Reach me:** akshad19oct@gmail.com
+- ⚡ **Fun fact:** I enjoy transforming rough ideas into polished, working products
 
-<div align="center">
+---
 
-#### Languages
+### 🛠️ Tech Stack & Tools
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+**Languages**
 
-#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+**Frontend**
 
-#### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-<img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"/>
+**Backend & Databases**
 
-#### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+**Cloud & Deployment**
 
-#### Tools & Design
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+**Tools**
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+### 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/AkshadGiri/imagify">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=AkshadGiri&repo=imagify&theme=dark&hide_border=false" width="48%"/>
-</a>
-<a href="https://github.com/AkshadGiri/Tech-shop">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=AkshadGiri&repo=Tech-shop&theme=dark&hide_border=false" width="48%"/>
-</a>
-
-</div>
-
-| Project | Description | Stack |
+| Project | Description | Tech |
 |---|---|---|
-| 🖼️ **[Imagify](https://github.com/AkshadGiri/imagify)** | Full-stack MERN app that turns text prompts into AI-generated images in seconds | MongoDB · Express · React · Node.js |
-| 🛒 **[Tech-Shop](https://github.com/AkshadGiri/Tech-shop)** | Product-selling application with a full shopping cart experience | JavaScript |
+| 🛒 [**Tech-shop**](https://github.com/AkshadGiri/Tech-shop) | Product-selling application with a full shopping cart flow. | `JavaScript` |
+| 🎨 [**imagify**](https://github.com/AkshadGiri/imagify) | Full-stack MERN app that turns text prompts into AI-generated images in seconds. | `MongoDB` `Express` `React` `Node.js` |
 
-<br/>
+> 📂 Browse all repositories [here](https://github.com/AkshadGiri?tab=repositories).
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.shion.dev/api?username=AkshadGiri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=AkshadGiri&theme=dark&hide_border=false" width="49%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshadGiri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshadGiri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+</p>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AkshadGiri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshadGiri&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshadGiri&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff" />
+</p>
 
-<br/>
+---
 
-## 🌐 Connect With Me
+### 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshad-giri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akshad19oct@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AkshadGiri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/akshad_giri3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-<a href="https://instagram.com/akshad_giri3">
-  <img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://www.google.com/search?q=insta+image&oq=insta+image&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQABgKGAsYsQMYgAQyCQgCEAAYChiABDIOCAMQABgKGAsYsQMYgAQyDggEEAAYChgLGLEDGIAEMg4IBRAAGAoYCxixAxiABDIHCAYQABiABDIHCAcQABiABDILCAgQABgKGAsYgAQyBwgJEAAYgATSAQgyMTY1ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8#sv=CAMSZxowKg5oOXp2U2RoeWNwZkRjTTIOaDl6dlNkaHljcGZEY006DnNrc0k3cE51bjB5M2hNIAQqLwobX19jWmNhckxlSE1YdnNlTVBoLTdlMEFRXzQ0Eg5oOXp2U2RoeWNwZkRjTRgAMAEYByCZgqDyBUoIEAEYASABKAE)" alt="Instagram"/>
-</a>
-<a href="https://linkedin.com/in/akshad-giri">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://mastodon.social/@Akshad_Giri">
-  <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
-</a>
-<a href="mailto:akshad19oct@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+---
 
-</div>
+### 🎯 Let's Collaborate!
 
-<br/>
+I'm always excited to work on full-stack and AI-powered projects, contribute to open-source, or discuss backend architecture, APIs, and cloud deployment. Whether it's MERN, SaaS, or cloud-native apps — let's build something great together!
 
-<div align="center">
+> *"The best way to predict the future is to build it."*
 
-### 💭 "Code is like humor. When you have to explain it, it's bad."
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshadGiri&color=00f7f7&style=flat-square&label=Profile+Views" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-- 🔭 I’m currently working on Building MERN projects.
-- 🌱 I’m currently learning about Data structures and algorithm and devops foundations.
-- 👯 I’m looking to collaborate on open-source MERN projects, SaaS tools, or AI-powered web apps
-- 🤔 I’m looking for help with backend system design, authentication, and AWS/cloud deployment best practice
-- 💬 Ask me about WebApps,Chess,New-Tech,AstroPhysics.
-- ⚡ Fun fact: "It works on my machine" is basically my catchphrase
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
 
